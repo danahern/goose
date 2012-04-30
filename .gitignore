@@ -19,7 +19,6 @@ rdoc
 pkg
 
 ## PROJECT::SPECIFIC
-goose.gemspec
 *.gem
 doc/*
 .yardoc
